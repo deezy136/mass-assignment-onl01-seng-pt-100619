@@ -6,6 +6,7 @@ class Person
   
   def initialize(person_attributes)
     @name = person_attributes[:name]
+    @birthday = 
     
     
   end 
