@@ -6,7 +6,13 @@ class Person
   
   def initialize(person_attributes)
     @name = person_attributes[:name]
-    @birthday = 
+      @birthday = person_attributes[:birthday]
+        @hair_color = person_attributes[:hair_color]
+          @name = person_attributes[:name]
+            @name = person_attributes[:name]
+              @name = person_attributes[:name]
+                @name = person_attributes[:name]
+    = 
     
     
   end 
