@@ -12,7 +12,7 @@ class Person
             @name = person_attributes[:name]
               @name = person_attributes[:name]
                 @name = person_attributes[:name]
-    = 
+     
     
     
   end 
